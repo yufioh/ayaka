@@ -67,6 +67,7 @@ body {
 
 #header {
   position: relative;
+  width: 100%;
   background-color: rgba(223, 157, 157, 0.75);
   box-shadow: 0 0 20px rgba(78, 43, 43, 0.75);
   color: white;
